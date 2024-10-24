@@ -31,7 +31,7 @@ I am dedicated to uncovering the intricate stories embedded within data and tran
 
 ### 🏆 **My Trophy Case**:
 
-![Riwano's Trophies](https://github-profile-trophy.vercel.app/?username=Riwan000&theme=monokai&margin-w=5&column=3)
+![Riwano's Trophies](https://github-profile-trophy.vercel.app/?username=Riwan000&theme=monokai&margin-w=5&column=4)
 
 ---
 
