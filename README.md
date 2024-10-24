@@ -47,7 +47,7 @@ Stay tuned for my upcoming projects and discoveries in the world of data science
 
 ---
 <p align="center">
-  <a href="www.linkedin.com/in/riwano-fariz-819b9b265">
+  <a href="https://www.linkedin.com/in/riwano-fariz">
     <img src="https://img.icons8.com/?size=200&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
