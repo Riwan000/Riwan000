@@ -24,16 +24,6 @@ I am dedicated to uncovering the intricate stories embedded within data and tran
 
 ---
 
-### 📊 **GitHub Stats**:
-
-![Riwano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riwan000&show_icons=true&theme=radical)
-
-### 🏆 **My Trophy Case**:
-
-![Riwano's Trophies](https://github-profile-trophy.vercel.app/?username=Riwan000&theme=monokai&margin-w=5&column=4)
-
----
-
 ### 📫 **Get in Touch**:
 
 Feel free to drop me a message or connect! I'm always eager to chat about data, technology, or the latest trends in the industry. Let's collaborate and innovate together!
