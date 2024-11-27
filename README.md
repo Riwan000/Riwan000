@@ -16,10 +16,11 @@ I am dedicated to uncovering the intricate stories embedded within data and tran
 
 ### 🛠️ **My Toolbox:**
 
-| :----------: | :------------: | :--------: |
+
 | Python     | Pandas        | Jupyter  |
-| SQL        | NumPy        | Statistics |
-| Power BI  | Scikit-learn  | Git 🔧     |
+|------------|---------------|----------|
+| SQL        | NumPy         | Statistics |
+| Power BI   | Scikit-learn  | Git      |
 
 ---
 
