@@ -1,24 +1,35 @@
-# 👋 Hey there! I'm Riwano Fariz!
+# Hi, I'm Riwano Fariz 👋
 
-### 📫 **Get in Touch**:
+I build **end-to-end ML and AI systems** — turning messy data and modeling decisions into **reliable, production-facing APIs**.
 
-Feel free to drop me a message or connect! I'm always eager to chat about data, technology, or the latest trends in the industry. Let's collaborate and innovate together!
+I work as an **AI / ML Engineer**, with experience spanning data preparation, model development, evaluation, and system integration. My focus is on building ML systems that work **outside notebooks** and hold up under real-world constraints.
+
+---
+
+### 🧠 What I Build
+- Data pipelines and modeling workflows for imperfect, real-world datasets  
+- ML models designed with evaluation, monitoring, and failure modes in mind  
+- AI features such as RAG-based retrieval, tool-using agents, and decision-support systems  
+- Backend services that expose models as stable, testable APIs  
 
 ---
 
-### 🚀 **Work in Progress...**:
-
-Stay tuned for my upcoming projects and discoveries. Always evolving, always creating! 🔥
+### 🔧 Core Stack (Used in Projects)
+- **Languages**: Python, SQL  
+- **ML**: scikit-learn, XGBoost, feature engineering, structured evaluation  
+- **LLM Systems**: RAG pipelines, embeddings, vector search, agent workflows  
+- **Backend**: FastAPI, REST APIs  
+- **ML Systems**: experiment tracking, evaluation pipelines, model serving  
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/riwano-fariz">
-    <img src="https://img.icons8.com/?size=200&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  
-  <a href="https://www.instagram.com/riwano.py/">
-    <img src="https://img.icons8.com/?size=200&id=BrU2BBoRXiWq&format=png&color=000000" alt="Instagram" width="40"/>
-  </a>
-</p>
+### 🚀 Current Focus
+- Building reliable ML and LLM-powered features for real products  
+- Improving evaluation, robustness, and failure handling in ML systems  
+- Writing clear documentation around system design and trade-offs  
+
+---
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/riwano-fariz  
+- Instagram (technical content): https://www.instagram.com/riwano.py
