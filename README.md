@@ -4,7 +4,7 @@
 
 # Riwano Fariz
 
-### AI / ML Engineer · AI Systems Builder
+### I learn and  build stuff.
 
 **I build production-oriented ML & LLM systems — from data and models to APIs and deployed AI products.**
 
