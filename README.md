@@ -161,16 +161,6 @@ PUBLIC WORK
 
 ---
 
-## 🤖 About the "Riwano Bot"
-
-Want to know how I think about AI systems, what I'm building, or what I work with?
-
-**[Talk to me through my portfolio →](https://riwano.com/)**
-
-The long-term goal is to make my portfolio itself an example of the kind of AI systems I build.
-
----
-
 <details>
 <summary>🔐 Classified information</summary>
 
