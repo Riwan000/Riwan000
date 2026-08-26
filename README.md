@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="./assets/binary-portrait.svg" width="420" alt="Binary portrait of Riwano Fariz">
-
 # Riwano Fariz
 
 ### I learn and  build stuff.
